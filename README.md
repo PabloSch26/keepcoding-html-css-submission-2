@@ -57,25 +57,26 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
 
 ### Descripción de los Programas
 
+- **Git**: Herramienta de control de versiones. Es imprescindible para clonar el repositorio.
 - **SourceTree**: Una herramienta visual para gestionar repositorios Git. Permite interactuar con Git de forma sencilla sin necesidad de utilizar la línea de comandos.
 - **Visual Studio**: Entorno de desarrollo integrado (IDE) necesario para ejecutar el proyecto. Asegúrate de utilizar la versión 1.99.0 para evitar problemas de compatibilidad.
 - **Live Server**: Extensión de Visual Studio que permite visualizar los archivos HTML de manera local en un navegador, mostrando los cambios en tiempo real.
 
 ### Pasos para utilizar este proyecto
 
-1. Clona el repositorio de GitHub utilizando **SourceTree** o directamente con el siguiente comando:
+1. Clona el repositorio de GitHub utilizando **SourceTree** o directamente con el siguiente comando mediante Git:
 
    ```bash
    git clone https://github.com/PabloSch26/keepcoding-html-css-submission-2.git
 
 2.1 Una vez clonado el repositorio, abre el proyecto en Visual Studio agregando el directorio del proyecto a tu espacio de trabajo.
 
-2.2 Abre los archivos index.html, proyect.html, 404.html y 500.html con Live Server para previsualizarlos en el navegador y ver los cambios de manera inmediata.
+2.2 Abre los archivos index.html, proyect.html, 404.html y 500.html con Live Server para previsualizarlos en el navegador.
 
 ### Notas
-Asegúrate de tener correctamente instalados todos los programas necesarios antes de proceder con la ejecución del proyecto.
 
-Si no deseas usar SourceTree, puedes clonar el repositorio directamente usando la terminal con el comando git clone.
+- Asegúrate de tener correctamente instalados todos los programas necesarios antes de proceder con la ejecución del proyecto.
+- Si no deseas usar SourceTree, puedes clonar el repositorio directamente usando la terminal con el comando git clone.
 
 ## Sin contribuciones ni licencias
 
