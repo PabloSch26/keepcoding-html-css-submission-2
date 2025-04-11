@@ -72,7 +72,7 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
 
 2.2 Abre los archivos index.html, proyect.html, 404.html y 500.html con Live Server para previsualizarlos en el navegador y ver los cambios de manera inmediata.
 
-Notas
+### Notas
 Asegúrate de tener correctamente instalados todos los programas necesarios antes de proceder con la ejecución del proyecto.
 
 Si no deseas usar SourceTree, puedes clonar el repositorio directamente usando la terminal con el comando git clone.
