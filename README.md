@@ -2,7 +2,7 @@
 
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre HTML y CSS.
 
-# El proyecto abarca los siguientes aspectos clave:
+## El proyecto abarca los siguientes aspectos clave:
 
 - Implementación de **HTML** estructurado y su interacción con el **DOM**, acompañado de estilos en cascada mediante **CSS**.
 - Uso adecuado de la **semántica** de las etiquetas HTML, combinado con reglas CSS que mejoran la accesibilidad y el rendimiento.
@@ -16,10 +16,10 @@ Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos a
 - Incorporación de **links** para la navegación a otros sitios web, mejorando la conectividad y accesibilidad.
 - Garantía de la **cohesión y limpieza del código**, con una estructura organizada que facilita el mantenimiento y la escalabilidad del proyecto.
 
-# Objetivo del Proyecto
+## Objetivo del Proyecto
 El objetivo principal de este proyecto es desarrollar un **portfolio** personal (o de un personaje de ficción), aplicando los conocimientos adquiridos en clase. La idea es crear una presentación interactiva y visualmente atractiva que muestre las habilidades y proyectos de nuestro personaje elegido, utilizando las tecnologías y prácticas aprendidas durante el curso.
 
-# Detalles del Proyecto
+## Detalles del Proyecto
 
 - Se debe de crear un **header**, en el que los enlaces deben tener el estado `hover` suavizado con una transición. Estos links no son necesarios en la versión móvil.
 - Una sección con una descripción de **nosotros** y nuestras habilidades representadas mediante **barras de progreso**. Estas barras deben estar animadas utilizando **CSS**.
