@@ -2,8 +2,6 @@
 
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre HTML y CSS.
 
-## Descripción
-
 # El proyecto abarca los siguientes aspectos clave:
 
 - Implementación de **HTML** estructurado y su interacción con el **DOM**, acompañado de estilos en cascada mediante **CSS**.
