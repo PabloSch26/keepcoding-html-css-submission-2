@@ -47,7 +47,7 @@ El objetivo principal de este proyecto es desarrollar un **portfolio** personal 
 - Nueva página que contenga un **video** que se reproduzca automáticamente al entrar en la web y aparezca con una animación de **fadeIn**.
 - Crear una nueva página con un **grid** que muestre nuestros proyectos.
 
-###Opcional
+### Opcional
 - Crear un menú burger con solo CSS y un input checkbox, para no usar JS.
 - Despliegue en Github pages
 - Página de 404. Libre diseño
