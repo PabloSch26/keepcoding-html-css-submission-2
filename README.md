@@ -75,7 +75,9 @@ This project was developed exclusively using the following technologies:
    ```bash
    git clone https://github.com/PabloSch26/keepcoding-html-css-submission-2.git
 
-2.1 Once the repository is cloned, open the project in Visual Studio by adding the project folder to your workspace.
+2. Once the repository is cloned:
+
+2.1 Open the project in Visual Studio by adding the project folder to your workspace.
 
 2.2 Open the files index.html, proyect.html, 404.html, and 500.html with Live Server to preview them in your browser.
 
