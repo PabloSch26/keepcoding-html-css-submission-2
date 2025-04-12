@@ -1,7 +1,10 @@
-# Select your language
+## Select your language
 
-- 🇪🇸 [Español](README.es.md)
-- 🇩🇪 [Deutsch](README.de.md)
+- 🇪🇸 [Spanish](README.es.md)
+- 🇩🇪 [German](README.de.md)
+
+## Project URL
+[https://pablosch26.github.io/keepcoding-html-css-submission-2](https://pablosch26.github.io/keepcoding-html-css-submission-2)
 
 # CSS and HTML Project Submission
 
