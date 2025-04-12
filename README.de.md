@@ -96,10 +96,10 @@ Dieses Projekt hat derzeit keine externen Beiträge oder eine Lizenz.
 ![Index View](etc/preview_images/index.png)
 ### Index Mobile View
 ![Index Mobile View](etc/preview_images/index_mobile.png)
-### Proyects View
-![Proyects View](etc/preview_images/proyects.png)
-### Proyects Mobile View
-![Proyects Mobile View](etc/preview_images/proyects_mobile.png)
+### Projects View
+![Projects View](etc/preview_images/projects.png)
+### Projects Mobile View
+![Projects Mobile View](etc/preview_images/projects_mobile.png)
 ### 404 View
 ![404 View](etc/preview_images/404.png)
 ### 404 Mobile View
