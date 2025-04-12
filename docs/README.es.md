@@ -49,9 +49,9 @@ El objetivo principal de este proyecto es desarrollar un **portfolio** personal 
 
 ### Opcional
 - Crear un menú burger con solo CSS y un input checkbox, para no usar JS.
-- Despliegue en Github pages
-- Página de 404. Libre diseño
-- Página 500. Libre diseño
+- Despliegue en Github pages.
+- Página de 404. Libre diseño.
+- Página 500. Libre diseño.
 
 ## Tecnologías
 
