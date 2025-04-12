@@ -92,8 +92,8 @@ This project was developed exclusively using the following technologies:
 
 ### Notes
 
--Make sure all required software is properly installed before running the project.
--If you prefer not to use SourceTree, you can clone the repository directly using the terminal with the git clone command.
+- Make sure all required software is properly installed before running the project.
+- If you prefer not to use SourceTree, you can clone the repository directly using the terminal with the git clone command.
 
 ## No Contributions or Licenses
 
