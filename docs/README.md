@@ -50,9 +50,9 @@ The main objective of this project is to develop a personal **portfolio** (or on
 
 ### Optional
 - Create a burger menu with only CSS and an input checkbox, to avoid using JS.
-- Deployment in Github pages
-- 404 page. Free design
-- Page 500. Free design
+- Deployment in Github pages.
+- 404 page. Free design.
+- Page 500. Free design.
 
 ## Technologies
 
