@@ -83,5 +83,17 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
 Este proyecto no cuenta con contribuciones externas ni licencia en este momento.
 
 ## Vista previa del proyecto
-![Index](etc/preview_images/index.png)
+### Index View
+![Index View](etc/preview_images/index.png)
+### Index Mobile View
+![Index Mobile View](etc/preview_images/index(mobile).png)
+### Proyects View
+![Proyects View](etc/preview_images/proyects.png)
+### Proyects Mobile View
+![Proyects Mobile View](etc/preview_images/proyects(mobile).png)
+### 404 View
+![404 View](etc/preview_images/404.png)
+### 404 Mobile View
+![404 Mobile View](etc/preview_images/404(mobile).png)
+
 
