@@ -81,3 +81,7 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
 ## Sin contribuciones ni licencias
 
 Este proyecto no cuenta con contribuciones externas ni licencia en este momento.
+
+## Vista previa del proyecto
+![Index](etc/index.html)
+
