@@ -48,6 +48,12 @@ Das Hauptziel dieses Projekts ist die Entwicklung eines persönlichen **Portfoli
 - Eine neue Seite, die ein **Video** enthält, das beim Betreten der Website automatisch abgespielt wird und mit einer **FadeIn**-Animation erscheint.
 - Erstellen Sie eine neue Seite mit einem **Grid**, das unsere Projekte anzeigt.
 
+### Optional
+- Erstellen Sie ein Burger-Menü nur mit CSS und einem Eingabe-Kontrollkästchen, um JS zu vermeiden.
+- Auf Github-Seiten bereitstellen.
+- 404-Seite. Freies Design.
+- Seite 500. freies Design.
+
 ## Technologien
 
 Dieses Projekt wurde ausschließlich mit den folgenden Technologien entwickelt:
