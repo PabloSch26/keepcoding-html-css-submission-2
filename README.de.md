@@ -1,3 +1,8 @@
+# Wählen Sie Ihre Sprache.
+
+- 🇺🇸 [English](README.md)
+- 🇪🇸 [Español](README.es.md)
+
 # CSS- und HTML-Projektabgabe
 
 Dieses Projekt wurde mit dem Ziel erstellt, das in den virtuellen Klassen über HTML und CSS erworbene Wissen zu üben und zu demonstrieren.
