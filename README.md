@@ -83,5 +83,5 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
 Este proyecto no cuenta con contribuciones externas ni licencia en este momento.
 
 ## Vista previa del proyecto
-![Index](etc/index.html)
+![Index](etc/preview_images/index.png)
 
