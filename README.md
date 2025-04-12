@@ -1,3 +1,8 @@
+# Select your language
+
+- 🇪🇸 [Español](README.es.md)
+- 🇩🇪 [Deutsch](README.de.md)
+
 # CSS and HTML Project Submission
 
 This project was created with the purpose of practicing and demonstrating the knowledge acquired in virtual classes about HTML and CSS.
