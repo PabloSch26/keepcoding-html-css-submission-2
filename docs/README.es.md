@@ -1,9 +1,9 @@
-# Selecciona tu lenguaje
+## Selecciona tu lenguaje
 
 - 🇺🇸 [English](README.md)
 - 🇩🇪 [Deutsch](README.de.md)
 
-# URL del Proyecto
+## URL del Proyecto
 [https://pablosch26.github.io/keepcoding-html-css-submission-2](https://pablosch26.github.io/keepcoding-html-css-submission-2)
 
 # Entrega Proyecto de CSS y HTML
