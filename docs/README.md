@@ -48,6 +48,12 @@ The main objective of this project is to develop a personal **portfolio** (or on
 - A new page containing a **video** that plays automatically when the user enters the website, with a **fadeIn** animation.
 - Create another page with a **grid** displaying our projects.
 
+### Optional
+- Create a burger menu with only CSS and an input checkbox, to avoid using JS.
+- Deployment in Github pages
+- 404 page. Free design
+- Page 500. Free design
+
 ## Technologies
 
 This project was developed exclusively using the following technologies:
