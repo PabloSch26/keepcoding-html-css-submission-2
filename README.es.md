@@ -1,3 +1,8 @@
+# Selecciona tu lenguaje
+
+- 🇺🇸 [English](README.md)
+- 🇩🇪 [Deutsch](README.de.md)
+
 # Entrega Proyecto de CSS y HTML
 
 Este proyecto fue creado con el fin de ejercitar y demostrar los conocimientos adquiridos en clases virtuales sobre HTML y CSS.
@@ -69,7 +74,9 @@ Este proyecto fue desarrollado utilizando exclusivamente con las siguientes tecn
    ```bash
    git clone https://github.com/PabloSch26/keepcoding-html-css-submission-2.git
 
-2.1 Una vez clonado el repositorio, abre el proyecto en Visual Studio agregando el directorio del proyecto a tu espacio de trabajo.
+2. Una vez clonado el repositorio:
+
+2.1 Abre el proyecto en Visual Studio agregando el directorio del proyecto a tu espacio de trabajo.
 
 2.2 Abre los archivos index.html, proyect.html, 404.html y 500.html con Live Server para previsualizarlos en el navegador.
 
