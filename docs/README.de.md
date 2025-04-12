@@ -92,8 +92,8 @@ Dieses Projekt wurde ausschließlich mit den folgenden Technologien entwickelt:
 
 ### Hinweise
 
--Stellen Sie sicher, dass alle erforderlichen Programme korrekt installiert sind, bevor Sie mit dem Projekt fortfahren.
--Wenn Sie SourceTree nicht verwenden möchten, können Sie das Repository direkt über das Terminal mit dem git clone-Befehl klonen.
+- Stellen Sie sicher, dass alle erforderlichen Programme korrekt installiert sind, bevor Sie mit dem Projekt fortfahren.
+- Wenn Sie SourceTree nicht verwenden möchten, können Sie das Repository direkt über das Terminal mit dem git clone-Befehl klonen.
 
 ## Keine Beiträge oder Lizenzen
 
